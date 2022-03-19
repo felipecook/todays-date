@@ -1,0 +1,13 @@
+* {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: dodgerblue;
+}
+
+h1 {
+  color: blanchedalmond;
+}
+
+
+application-main {
+  display: flex;
+}
